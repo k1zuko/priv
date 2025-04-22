@@ -1,8 +1,8 @@
 #!/usr/bin/python2.7
 
 try:
-    print('input a number:')
+    print 'input a number:'
     x = input()
-    print(int(x))
+    print int(x)
 except:
     print('bye.')
